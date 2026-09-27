@@ -9,3 +9,4 @@ What I can show is what I build on the side: small, focused indie apps under wil
 
 - Website: [will-i-am.dev](https://will-i-am.dev)
 - LinkedIn: [will-herrmann](https://linkedin.com/in/will-herrmann-155a09103)
+- Support: [buymeacoffee.com/will.i.am.dev](https://buymeacoffee.com/will.i.am.dev)
