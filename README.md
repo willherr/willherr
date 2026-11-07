@@ -7,6 +7,6 @@ What I can show is what I build on the side: small, focused indie apps under wil
 - [10-key-architecture](https://github.com/willherr/10-key-architecture): how 10-Key Calculator actually gets built, real CI, redacted architecture, and the safety nets that make it shippable.
 - [claude-code-toolkit](https://github.com/willherr/claude-code-toolkit): the Claude Code skills behind that workflow, in daily use.
 
-- Website: [will-i-am.dev](https://will-i-am.dev)
+- Website: [will-i-am.dev](https://will-i-am.dev/?utm_source=github&utm_medium=referral&utm_campaign=willherr&utm_content=readme)
 - LinkedIn: [will-herrmann](https://linkedin.com/in/will-herrmann-155a09103)
 - Support: [buymeacoffee.com/will.i.am.dev](https://buymeacoffee.com/will.i.am.dev)
